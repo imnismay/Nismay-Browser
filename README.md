@@ -1,10 +1,6 @@
 # Nismay Browser – Private browsing, Tor built in.
 
 A Windows browser that sends every tab through its own Tor circuit, blocks ads and trackers, and saves nothing. No setup, no accounts, no telemetry.
-
-## 🚀 Download
-[![Download for Windows](https://shields.io)](https://github.com)
-
 ---
 
 ## ✨ Features
